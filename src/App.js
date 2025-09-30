@@ -122,8 +122,7 @@ function App() {
             setNow(moment());
 
             setCurrent(timings.find((timing) => {
-                const aim = timing.to ?? timing.from;
-                return moment(aim).diff(now) > 0;
+                return moment(timing.from).diff(now) > 0;
             }));
         }, 1000);
 
