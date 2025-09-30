@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/timing.stakovicz.github.io/static/css/main.5b975c7b.css",
-    "main.js": "/timing.stakovicz.github.io/static/js/main.0d1c40c9.js",
+    "main.js": "/timing.stakovicz.github.io/static/js/main.9c768f6e.js",
     "static/js/453.737471c0.chunk.js": "/timing.stakovicz.github.io/static/js/453.737471c0.chunk.js",
     "index.html": "/timing.stakovicz.github.io/index.html",
     "main.5b975c7b.css.map": "/timing.stakovicz.github.io/static/css/main.5b975c7b.css.map",
-    "main.0d1c40c9.js.map": "/timing.stakovicz.github.io/static/js/main.0d1c40c9.js.map",
+    "main.9c768f6e.js.map": "/timing.stakovicz.github.io/static/js/main.9c768f6e.js.map",
     "453.737471c0.chunk.js.map": "/timing.stakovicz.github.io/static/js/453.737471c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b975c7b.css",
-    "static/js/main.0d1c40c9.js"
+    "static/js/main.9c768f6e.js"
   ]
 }
